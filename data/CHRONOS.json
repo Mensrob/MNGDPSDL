@@ -1,0 +1,17 @@
+{
+    "id": 108,
+    "name": "CHRONOS",
+    "author": "Mensreal",
+    "creators": [],
+    "verifier": "Mensreal",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [    
+        {
+            "user": "Wonsopallonso",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
